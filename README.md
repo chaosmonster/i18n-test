@@ -1,3 +1,8 @@
+To test the i18n in node_modules copy the folder i18n-test to the node_modules folder.
+It is created by running `pm run _ngc` and copying a package.json into the dist folder and renaming it.
+
+If you run `ng x18n` you get a `message.xlf` file containing your node_module
+
 # I18nTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.1.

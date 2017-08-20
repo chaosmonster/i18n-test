@@ -2,6 +2,7 @@
   "name": "i18n-test",
   "version": "0.0.0",
   "license": "MIT",
+  "module": "i18n-test.module.js",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
